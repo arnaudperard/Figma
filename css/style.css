@@ -1,0 +1,14 @@
+body{ 
+    margin: 0px;
+    padding: 0px;
+}
+.red{
+    height: 600px;
+    background-color: #699bf7;
+}
+.rere{
+    height: 600px;
+    background-color: #699bf7;
+}
+
+.dropdown:hover .dropdown-menu {display: block; }
